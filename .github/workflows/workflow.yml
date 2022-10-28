@@ -20,3 +20,4 @@ jobs:
           githubToken: ${GITHUB_TOKEN}
           branch: main
           cname: fes.tclb.cf
+
